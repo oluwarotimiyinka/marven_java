@@ -18,5 +18,5 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-- script: cat.pom.xml
+- script: cat.hello_world
   displayName: output GH file content
